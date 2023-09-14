@@ -1,2 +1,2 @@
-# periodictable.git.io
+# periodictable
 periodic table using html
